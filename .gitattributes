@@ -3,3 +3,4 @@ mobile/windows/** linguist-vendored
 mobile/linux/** linguist-vendored
 mobile/macos/** linguist-vendored
 mobile/ios/** linguist-vendored
+mobile/web/** linguist-vendored
